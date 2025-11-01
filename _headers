@@ -1,0 +1,5 @@
+/docs/*
+  X-Robots-Tag: noindex, noarchive
+
+/assets/attachments/*
+  X-Robots-Tag: noindex, noarchive

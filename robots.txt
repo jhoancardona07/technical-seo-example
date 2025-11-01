@@ -1,0 +1,13 @@
+User-agent: *
+
+Disallow: /admin/
+Disallow: /tmp/
+Disallow: /cart/
+Disallow: /checkout/
+Disallow: /content/
+Allow: /content/images/
+
+# Nunca usar Disallow: /
+
+Sitemap: https://username.github.io/seo-recipes/sitemap_index.xml
+Sitemap: https://username.github.io/seo-recipes/sitemap.xml
