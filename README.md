@@ -1,4 +1,4 @@
-# SEO Recipes — Proyecto de ejemplo para evidencias
+# SEO Recipes — Proyecto de ejemplo para evidencias del SEO Técnico
 
 - `robots.txt` en la raíz (User-agent, Disallow/Allow, Sitemaps).
 - `sitemap.xml` + `sitemap_index.xml` en la raíz (URLs limpias y https).
